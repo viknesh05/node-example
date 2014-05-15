@@ -1,0 +1,32 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "Test App",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viknesh05/node-examples.git"
+  },
+  "keywords": [
+    "Test",
+    "node"
+  ],
+  "author": "Viknesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viknesh05/node-examples/issues"
+  },
+  "homepage": "https://github.com/viknesh05/node-examples",
+  "dependencies": {
+    "express": "^4.2.0",
+    "logfmt": "^1.1.2"
+  }
+  {
+  "engines": {
+    "node": "0.10.x"
+  }
+}
+}
